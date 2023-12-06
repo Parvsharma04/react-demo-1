@@ -16,9 +16,9 @@ function Test(){
   );
 }
 
-const ele = (
-  <h1> HELLO ;)</h1>
-);
-console.log(ele)
+// const ele = (
+//   <h1> HELLO ;)</h1>
+// );
+// console.log(ele)
 
 export default App;
